@@ -52,7 +52,7 @@ Si hablamos de alguien del área de marketing/publicidad dentro del área de com
 
 ### Escenario
 
-*Persona que llevará a cabo la tarea: Persona/Trabajador de agencia del área de comunicaciones*
+*Persona que llevará a cabo la tarea: Ignacio, trabaja en el área de comunicaciones.
 
 *¿En qué consiste la Tarea?: La tarea consiste en entrar y navegar a un sitio web que permita la visualización de trabajos del diseñador, junto con descripción y especificaciones de sus cualidades, especialidades y carácterísticas de cada proyecto. Al mismo tiempo la persona debiese poder interactuar con alguna opción que permita establecer contacto directo con el diseñador y abrir paso a un proceso de contratación*
 
