@@ -8,7 +8,7 @@ Publicación de trabajos que permita conocer estilo, trayectoria, y especialidad
 ### *Lo no probable*
 
 ### *1.*
-![Image alt text][![image](https://github.com/Daviidfdezz/PortafolioDavid/assets/141695510/d280448a-e9cb-4d80-9ff9-1e12ce759bd0)
+[![https://github.com/Daviidfdezz/PortafolioDavid/assets/141695510/d280448a-e9cb-4d80-9ff9-1e12ce759bd0)
 ]
 [img]: https://psicologia.uc.cl/wp-content/uploads/2020/08/MG_8600-300x200.jpg
 | Nombre | Edad | Trabaja en | Pasatiempos | Palabra que define su personalidad | 
