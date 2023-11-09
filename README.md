@@ -70,6 +70,8 @@ Si hablamos de alguien del área de marketing/publicidad dentro del área de com
 
 ## ANTECEDENTES:
 
+### 1. [link](https://tona.so/?ref=landings.dev)
+
 
 
 
