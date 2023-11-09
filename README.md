@@ -108,7 +108,9 @@ Si hablamos de alguien del área de marketing/publicidad dentro del área de com
 ----
 ## MOODBOARD:
 
-HOLA
+![image](https://raw.githubusercontent.com/Daviidfdezz/PortafolioDavid/main/IMGMOODBOARD/Moodboard1.jpeg)
+
+
 
 
 
