@@ -7,7 +7,7 @@ Publicación de trabajos que permita conocer estilo, trayectoria, y especialidad
 
 ### *Lo no probable*
 
-### 1.
+### 1. 
 ![image](https://github.com/Daviidfdezz/PortafolioDavid/assets/141695510/2990eeed-8402-4d1b-b820-98887c3b4943)
 
 | Nombre | Edad | Trabaja en | Pasatiempos | Palabra que define su personalidad | 
@@ -21,6 +21,10 @@ Lo motiva el poder trabajar para sacar adelante a su familia. Poder dedicar tiem
 Si se trata de un profesor o docente de tiempo completo, y más si se trata de un área matemática, es poco probable que esta persona busque el portafolio de un diseñador, pues su trabajo en el área docente tiene un horario extenso y se encuentra poco vinculado a alguien que pueda llegar a buscar contratar a un diseñador, pues no resulta necesario para el área en el que trabaja ni para la preparación de sus clases.
 
 ### 2. 
+![image](https://github.com/Daviidfdezz/PortafolioDavid/assets/141695510/e6268766-50b1-4e71-8cd3-9395653cb8c2)
+
+
+
 
  
 
