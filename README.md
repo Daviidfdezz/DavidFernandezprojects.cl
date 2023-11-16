@@ -16,7 +16,7 @@ Publicación de trabajos que permita conocer estilo, trayectoria, y especialidad
 
 | Redes | Instagram | Facebook | Whatsapp | Tik Tok | 
 | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
-| **Frecuencia de uso (hrs)**   |  0 | 1 | 1 |  0
+| **Frecuencia de uso (hrs diarias)**   |  0 | 1 | 1 |  0
 
 *¿Qué lo motiva?*
 Lo motiva el poder trabajar para sacar adelante a su familia. Poder dedicar tiempo completo a sus estudiantes para que estos puedan obtener la mejor calidad educativa en sus establecimientos educacionales. Dedicar tiempo a su familia, dedicando días completos a ella.
@@ -36,7 +36,7 @@ Si se trata de un profesor o docente de tiempo completo, y más si se trata de u
 
 | Redes | Instagram | Facebook | Whatsapp | Tik Tok | 
 | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
-| **Frecuencia de uso (hrs)**   |  2 | 1 | 4 |  1
+| **Frecuencia de uso (hrs diarias)**   |  2 | 1 | 4 |  1
 
 *¿Qué lo motiva?*
 Lo motiva el que su empresa se encuentre en el top de calidad, ser el mejor en lo que hace y mantener una gestión adecuada en su vida personal y laboral, tanto en tiempo como en coordinación y organización.
@@ -60,7 +60,7 @@ Si se trata de un empresario sumamente prestigioso sabemos que es poco probable 
 
 | Redes | Instagram | Facebook | Whatsapp | Tik Tok | 
 | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
-| **Frecuencia de uso (hrs)**   |  4 | 2 | 3 |  5
+| **Frecuencia de uso (hrs diarias)**   |  4 | 2 | 3 |  5
 
 *¿Qué lo motiva?*
 Le motiva disfrutar de las cosas más pequeñas. Aprovecha al máximo su tiempo con amigos, pero también intenta pasarlo bien en su trabajo, suele ser alguien que rompe bastante el hielo, y eso le impulsa a generar un ambiente de trabajo de calidad.
