@@ -14,11 +14,19 @@ Publicación de trabajos que permita conocer estilo, trayectoria, y especialidad
 | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
 | Juan carlos   | 48   | Profesor de matemáticas, pasa gran parte del tiempo en la institución educativa en la que trabaja     | En sus tiempos libres se dedica a estar con su familia, a pasar tiempo con sus hijos y a salir con su esposa, o inclusive en ayudar en algunos quehaceres de la casa  |  Clásico 
 
+| Redes | Instagram | Facebook | Whatsapp | Tik Tok | 
+| ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
+| **Frecuencia de uso (hrs)**   |  0 | 1 | 1 |  0
+
 *¿Qué lo motiva?*
-Lo motiva el poder trabajar para sacar adelante a su familia. Poder dedicar tiempo completo a sus estudiantes para que estos puedan obtener la mejor calidad educativa en sus establecimientos educacionales.
+Lo motiva el poder trabajar para sacar adelante a su familia. Poder dedicar tiempo completo a sus estudiantes para que estos puedan obtener la mejor calidad educativa en sus establecimientos educacionales. Dedicar tiempo a su familia, dedicando días completos a ella.
+
+*¿Sus dolencias?*
+No poder asistir a todos los compromisos con su esposa y/o hijos, tener que quedarse días completos en su institución educacional para llegar a horas muy tardías a su hogar.
 
 *¿Por qué usaría/no usaría mi sitio web?*
-Si se trata de un profesor o docente de tiempo completo, y más si se trata de un área matemática, es poco probable que esta persona busque el portafolio de un diseñador, pues su trabajo en el área docente tiene un horario extenso y se encuentra poco vinculado a alguien que pueda llegar a buscar contratar a un diseñador, pues no resulta necesario para el área en el que trabaja ni para la preparación de sus clases.
+Si se trata de un profesor o docente de tiempo completo, y más si se trata de un área matemática, es poco probable que esta persona busque el portafolio de un diseñador, pues su trabajo en el área docente tiene un horario extenso y no resulta necesario para el área en el que trabaja ni para la preparación de sus clases. En sus clases este necesita preparar material didáctivo, pruebas, exámenes, en lo cual no es indispensable el servicio de un diseñador. Solo contrataría de estos servicios ocasionalmente, en caso de que suceda, quizá si desea invertir mayor cantidad de recursos a sus clases o actividades especiales, o externas a su trabajo.
+
 
 ### 2. 
 ![image](https://github.com/Daviidfdezz/PortafolioDavid/assets/141695510/e6268766-50b1-4e71-8cd3-9395653cb8c2) 
@@ -26,13 +34,21 @@ Si se trata de un profesor o docente de tiempo completo, y más si se trata de u
 | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
 | Vicente Gonzalez   | 38   | Director de empresa prestigiosa de artículos escolares | Sus días libres y días de vacaciones esta persona aprovecha de hacer viajes fuera del país con amigos y su familia, siempre que viaja intenta ir a un lugar distinto |  Popular
 
+| Redes | Instagram | Facebook | Whatsapp | Tik Tok | 
+| ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
+| **Frecuencia de uso (hrs)**   |  2 | 1 | 4 |  1
+
 *¿Qué lo motiva?*
 Lo motiva el que su empresa se encuentre en el top de calidad, ser el mejor en lo que hace y mantener una gestión adecuada en su vida personal y laboral, tanto en tiempo como en coordinación y organización.
+
+*¿Sus dolencias?*
+Perder gestión y control de las cosas. Por lo general el siempre prefiere manejar las cosas por su cuenta, y cuando hay decisiones colectivas que afectan su sensación de control suele generarle bastante estrés. Siempre le gusta mantener las cosas en orden y mantener el orden dentro de su equipo de trabajo.
+
 
 *¿Por qué usaría/no usaría mi sitio web?*
 Si se trata de un empresario sumamente prestigioso sabemos que es poco probable que fije su atención en diseñadores que recién están comenzando a ejercer. Si bien la empresa requiere de roles como los que efectúa un diseñador, aún más un diseñador integral, el posicionamiento tan alto de la empresa asegura muy probablemente que ya se tiene un equipo bastante establecido, y de no ser así, una excelente red de contactos para restaurarlo.
 
-### *Lo no probable*
+### *Lo probable*
 
 ### 1. 
 ![image](https://github.com/Daviidfdezz/PortafolioDavid/assets/141695510/1dfbddb9-40ad-442c-bc09-3242781560d9)
@@ -42,8 +58,15 @@ Si se trata de un empresario sumamente prestigioso sabemos que es poco probable 
 | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
 | Ignacio Gomez  | 35  | Marketing y publicidad | Pasa bastante tiempo en redes sociales, ya sea viendo memes o posteando fotos. También le gustan los videojuegos  |  Espontáneo
 
+| Redes | Instagram | Facebook | Whatsapp | Tik Tok | 
+| ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
+| **Frecuencia de uso (hrs)**   |  4 | 2 | 3 |  5
+
 *¿Qué lo motiva?*
 Le motiva disfrutar de las cosas más pequeñas. Aprovecha al máximo su tiempo con amigos, pero también intenta pasarlo bien en su trabajo, suele ser alguien que rompe bastante el hielo, y eso le impulsa a generar un ambiente de trabajo de calidad.
+
+*¿Sus dolencias?*
+Por lo general le duele el estar desconectado, necesita siempre de luz y wifi para no aburrirse ni estresarse, tomando en cuenta que además, son herramientas indispensables para su trabajo.
 
 *¿Por qué usaría/no usaría mi sitio web?*
 Si hablamos de alguien del área de marketing/publicidad dentro del área de comunicaciones, es muy probable que hablemos de alguien que suele trabajar constantemente con diseñadores en distintas etapas del proceso de producción y creación de contenido y plataformas. Especialmente si hablamos de alguien que trabaja en pequeñas agencias, esto estaría a un mayor alcance de mayor cantidad de diseñadores, incluyendo a creadores sin mucha experiencia.
